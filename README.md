@@ -31,5 +31,16 @@ There are few things you need to setup to utilize this repo:
 - ZenHub account. Learn how to create one [Here](https://www.zenhub.com/getting-started) 
 - ZenHub account linked with your GitHub account. Learn how to link ZenHub with a GitHub account [Here](https://help.zenhub.com/support/solutions/articles/43000650569-connecting-your-github-account-to-zenhub)
 
+## How To Use The Repo
+
+1)	Fork the repo
+2)	Create a new workspace on ZenHub
+3)	Click “add repositories”, and select this repo
+4)	Once the workspace is ready, click “new issues” 
+5)	Click template and select “Agile User Story” 
+6)	Then fill out the user story template
+
+Of course, you can customize the template to suit your needs.
+
 
 
